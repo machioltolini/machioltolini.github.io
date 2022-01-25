@@ -52,7 +52,7 @@ career-profile:
       I am a writer for animation and a researcher at Università Cattolica. My research
       interests include children's fiction, adaptation and Japan's visual culture. I
       work as a translator for several studios. I write reviews of animated
-      films and tv series. I also collaborate with the agency [Rigotz Stories](https://rigotz.com).
+      films and tv series. I collaborate with the agency [Rigotz Stories](https://rigotz.com).
 education:
     - degree: PhD in Education
       university: Università Cattolica, Milan
@@ -110,7 +110,10 @@ experiences:
       time: 2016 - 2017
       company: Edizioni San Paolo S.r.l., Milan
       details: |
-        Writing of the biographical book *MP3. Sulle ruote me la rido* entailed a series of interviews and brief cohabitation with the co-author Matteo Premi, a talented youth with spastic tetraparesis. Special mention at the "Angelo Zanibelli" Award (2018).
+        Writing of the biographical book *MP3. Sulle ruote me la rido* entailed a series
+        of interviews and brief cohabitation with the co-author Matteo Premi, a talented
+        youth with spastic tetraparesis. Special mention at the "Angelo Zanibelli" Award
+        (2018).
     - role: Screenwriter
       time: 2014 - 2015
       company: Calon TV, Cardiff
@@ -214,14 +217,14 @@ skills:
     #   - name: Sketch & Photoshop
     #     level: 60%
 reviews:
-    title: #Reviews
-    intro: #|
-      # Here is a list of my reviews
-    critiques:
-      - title: #"This is a review"
-        link:
-        authors: #Maria Chiara Oltolini
-        reference: #accepted for the Screenwriting Research Network, University of Vienna, 2022
+    # title: #Reviews
+    # intro: #|
+    #   # Here is a list of my reviews
+    # critiques:
+    #   - title: #"This is a review"
+    #     link:
+    #     authors: #Maria Chiara Oltolini
+    #     reference: #accepted for the Screenwriting Research Network, University of Vienna, 2022
 
 
 footer: >
