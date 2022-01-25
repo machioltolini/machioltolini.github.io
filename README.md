@@ -3,9 +3,9 @@
 </a>
 
 # Maria Chiara Oltolini's personal webpage
-> This repository is a fork of [online-cv](https://github.com/sharu725/online-cv), which adapts to Jekyll
-> the theme designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
-> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
+ This repository is a fork of [online-cv](https://github.com/sharu725/online-cv), which adapts to Jekyll
+ the theme designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
+ Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
 The live demo is available [here](https://online-cv.webjeda.com).
 
