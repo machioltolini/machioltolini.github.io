@@ -1,0 +1,32 @@
+{% assign reviews = site.data.data.reviews %}
+{% if reviews %}
+<section class="section reviews-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-star fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ reviews.title }}
+  </h2>
+
+  {% if reviews.intro %}
+  <div class="intro">
+    {{ reviews.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for review in reviews.critiques %}
+  <div class="item">
+    {% if review.link %}
+      <li><a href="{{ review.link }}">{{ review.title }}</a></li>
+    {% else %}
+      <li>{{ review.title }}</li>
+    {% endif %}
+    <div class="review-authors">{{ review.authors }}</div>
+    <div class="review-reference">{{ review.reference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
