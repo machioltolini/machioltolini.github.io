@@ -67,6 +67,11 @@ education:
       details: |
         My thesis focused on the adaptation work by the Japanese director Miyazaki Hayao.
 experiences:
+    - role: Story editor
+      time: 2022 - present
+      company: Movimenti Production, Milan
+      details: |
+        Editing stories, supervising staff writers, and evaluating animated projects for children.
     - role: Story consultant
       time: 2021 - 2022
       company: MUPI Srl, Florence
@@ -82,10 +87,12 @@ experiences:
       company: Università Cattolica, Milan
       details: |
         Teaching, tutoring, or assisting with examinations for the following courses:
+
           - Semiotics
           - History and Industry of International Cinema
           - International Screenwriting and Production
           - Writing and Producing for Animation
+          - Laboratorio di Letteratura, Cinema e TV per Ragazzi (design and delivery)
     - role: Writer
       time: December 2019 - January 2020
       company: Red Monk Studio, Milan
@@ -146,6 +153,11 @@ publications:
     intro: |
       This list incudes articles, book chapters, papers in conferences, and fiction.
     papers:
+      - title: "Inclusivity in Anime and Manga: Adapting Disability"
+        link:
+        authors: Maria Chiara Oltolini
+        conference: accepted for the AAS Annual Conference, University of Lisbon, 2022
+
       - title: "Once Upon a Time in Japan: 'Ponyo' and the Ecological Fairytale"
         link:
         authors: Maria Chiara Oltolini, Ilenia Provenzi
