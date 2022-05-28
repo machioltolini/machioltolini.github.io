@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maria Chiara Oltolini
-    tagline: Writer, Researcher and Translator
+    tagline: Writer, Researcher and Story Editor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,9 +47,9 @@ sidebar:
         link:
 
 career-profile:
-    title: Writer, Researcher and Translator
+    title: Writer, Researcher and Story Editor
     summary: |
-      I am a writer for animation and a [researcher](https://docenti.unicatt.it/ppd2/it/docenti/57551/maria-chiara-oltolini) at Università Cattolica. I write international animated series for children. My research interests include children's fiction, adaptation and Japan's visual culture. I work as a translator for several studios. I write reviews of animated films and tv series. I collaborate with the agency [Rigotz Stories](https://rigotz.com).
+      I am a writer for animation and a [researcher](https://docenti.unicatt.it/ppd2/it/docenti/57551/maria-chiara-oltolini) at Università Cattolica. I write and edit international animated series for children. My research interests include children's fiction, adaptation and Japan's visual culture. I also work as a translator for several studios. I occasionally write reviews of animated films and tv series. I collaborate with the agency [Rigotz Stories](https://rigotz.com).
 education:
     - degree: PhD in Education
       university: Università Cattolica, Milan
@@ -67,11 +67,16 @@ education:
       details: |
         My thesis focused on the adaptation work by the Japanese director Miyazaki Hayao.
 experiences:
-    - role: Story editor
+    - role: Screenwriter
+      time: 2022 - present
+      company: Enanimation, Turin
+      details: |
+        With Rigotz. Writing episodes for the animated series *The Sound Collector* (Eagle Vs Bat, Enanimation, Mackinnon & Saunders, ITV, RAI).
+    - role: Story Editor
       time: 2022 - present
       company: Movimenti Production, Milan
       details: |
-        Editing stories, supervising staff writers, and evaluating animated projects for children.
+        Editing stories, supervising staff writers, and evaluating animated projects for young audiences. Story Editor for the animated series *Miniheroes of the Forest*.
     - role: Story consultant
       time: 2021 - 2022
       company: MUPI Srl, Florence
