@@ -68,6 +68,16 @@ education:
         My thesis focused on the adaptation work by the Japanese director Miyazaki Hayao.
 experiences:
     - role: Screenwriter
+      time: 2022 - present
+      company: Museo Egizio, Turin
+      details: |
+        Writing dramatised audio-guides for children and adults for the temporary exhibition 'The Gift of Thot'. With characters from the book series *La Banda delle Bende" (Panini).
+    - role: Screenwriter
+      time: 2023
+      company: Enanimation
+      details: |
+        With Rigots. Writing episodes for the animated series *Nina & Olga 2* (Enanimation, Kreisworks).
+    - role: Screenwriter
       time: 2022
       company: Enanimation, Turin
       details: |
@@ -103,6 +113,7 @@ experiences:
           - International Screenwriting and Production
           - Writing and Producing for Animation
           - Laboratorio di Letteratura, Cinema e TV per Ragazzi (design and delivery)
+          - English Drama from Stage to Screen (workshop) (design and delivery)
     - role: Writer
       time: December 2019 - January 2020
       company: Red Monk Studio, Milan
@@ -163,6 +174,12 @@ publications:
     intro: |
       This list incudes articles, book chapters, papers in conferences, and fiction.
     papers:
+
+      - title: "World Classics Made in Japan: How Anime Reframed Children's Literature"
+        link:
+        authors: Maria Chiara Oltolini
+        conference: AAS Annual Conference, University of Birmingham, 2023
+
       - title: "Inclusivity in Anime and Manga: Adapting Disability"
         link:
         authors: Maria Chiara Oltolini
