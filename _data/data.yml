@@ -172,11 +172,16 @@ projects:
 publications:
     title: Publications
     intro: |
-      This list incudes articles, book chapters, papers in conferences, and fiction.
+      This list incudes books, articles, book chapters, papers in conferences, and fiction.
     papers:
 
+      - title: "Rediscovered Classics of Japanese Animation. The Adaptation of Children’s Novels into the World Masterpiece Theater Series"
+        link: https://www.bloomsbury.com/uk/rediscovered-classics-of-japanese-animation-9781501389900/
+        authors: Maria Chiara Oltolini
+        reference: "Bloomsbury Academics, New York & London 2024"
+
       - title: "Once Upon a Time in Japan: 'Ponyo' and the Ecological Fairytale"
-        link:
+        link: https://comunicazionisociali.vitaepensiero.it/scheda-articolo_digital/maria-chiara-oltolini-ilenia-provenzi/once-upon-a-time-in-japan-ponyo-and-the-ecological-fairytale-001200_2023_0003_0292-395908.html
         authors: Maria Chiara Oltolini, Ilenia Provenzi
         reference: "Comunicazioni sociali, n. 3, 2023, pp. 292-305"
 
@@ -226,7 +231,7 @@ publications:
         reference: "Edizioni San Paolo, Cinisello Balsamo 2017"
 
       - title: "Conan - Il Ragazzo del Futuro. Gli esordi televisivi di Miyazaki Hayao tra autorialità e animazione mainstream"
-        link:
+        link: https://comunicazionisociali.vitaepensiero.it/scheda-articolo_digital/maria-chiara-oltolini/conan-il-ragazzo-del-futuro-gli-esordi-televisivi-di-miyazaki-hayao-tra-autorialita-e-animazione-mainstream-conan-the-future-boy-the-television-output-of-miyazaki-hayao-between-authorship-and-mainstream-animation-001200_2014_0002_0326-235025.html
         authors: Maria Chiara Oltolini
         reference: "Comunicazioni sociali, n. 2, 2014, pp. 326-335"
 
