@@ -68,11 +68,33 @@ education:
         My thesis focused on the adaptation work by the Japanese director Miyazaki Hayao.
 experiences:
 experiences:
+    - role: Teaching Assistant
+      time: 2017 - present
+      company: Università Cattolica, Milan
+      details: |
+        Teaching, tutoring, or assisting with examinations for the following courses:
+
+          - Semiotics
+          - History and Industry of International Cinema
+          - International Screenwriting and Production
+          - Writing and Producing for Animation
+          - Laboratorio di Letteratura, Cinema e TV per Ragazzi (design and delivery)
+          - English Drama on Stage and on Screen (workshop) (design and delivery)
+    - role: Writer
+      time: 2024 - 2025
+      company: Armando Testa, Milan, & Maga Animation Studio, Monza
+      details: |
+        With Rigotz. Writing episodes for the animated series *Papallas*.
     - role: Writer
       time: 2024
       company: Università Cattolica, Milan
       details: |
         Collaboration on research activities in the field of Audiovisual Fiction.
+    - role: Japanese animation expert
+      time: 2023
+      company: Orientaserie, Milan
+      details: |
+        Online talk [One Piece e gli altri: alla scoperta degli anime] (https://www.youtube.com/watch?v=bpC-4sMmq7Q) (part of the series *Serie TV: Parliamone in famiglia*).
     - role: Writer
       time: 2022 - 2023
       company: Museo Egizio, Turin
@@ -88,6 +110,11 @@ experiences:
       company: Enanimation, Turin
       details: |
         With Rigotz. Writing episodes for the animated series *The Sound Collector* (Eagle Vs Bat, Enanimation, Mackinnon & Saunders, ITV, RAI).
+  - role: Japanese animation expert
+    time: 2022
+    company: Liceo Pellico Peano, Cuneo, & Regione Piemonte
+    details: |
+      Conference [Gli anime: universi paralleli epici e avventurosi. Aspeti problematici e potenzialità] (https://liceocuneo.it/cyber/formazione-docenti-sulle-serie-tv-2021-2022/) (Teacher training on preventing bullying and cyberbullying).
     - role: Story Editor
       time: 2022
       company: Movimenti Production, Milan
@@ -108,18 +135,6 @@ experiences:
       company: Università Cattolica, Milan
       details: |
         Writing of a story-based test-designing tool to be used in theory of mind to detect mentalising dysfunctions in relational contexts. In cooperation with Dr Sara Isernia, Department of Psychology.
-    - role: Teaching Assistant
-      time: 2017 - present
-      company: Università Cattolica, Milan
-      details: |
-        Teaching, tutoring, or assisting with examinations for the following courses:
-
-          - Semiotics
-          - History and Industry of International Cinema
-          - International Screenwriting and Production
-          - Writing and Producing for Animation
-          - Laboratorio di Letteratura, Cinema e TV per Ragazzi (design and delivery)
-          - English Drama on Stage and on Screen (workshop) (design and delivery)
     - role: Writer
       time: December 2019 - January 2020
       company: Red Monk Studio, Milan
@@ -180,6 +195,10 @@ publications:
     intro: |
       This list incudes books, articles, book chapters, papers in conferences, and fiction.
     papers:
+      - title: "The Swiss Family Robinson in Japan"
+        link:
+        authors: Maria Chiara Oltolini
+        conference: Transnational Perspectives on Anime: A Symposium, Lancaster University, 2025
 
       - title: "Writing for 'The Sound Collector': A Screenwriter's Perspective on Children's Animation"
         link:
@@ -240,6 +259,11 @@ publications:
         link: https://www.edizionisanpaolo.it/autore/maria-chiara-oltolini.aspx
         authors: Maria Chiara Oltolini, Matteo Premi
         reference: "Edizioni San Paolo, Cinisello Balsamo 2017"
+
+      - title: "Elementi esoterici nel genere “ragazze magiche”: dal mahô shôjo giapponese ai casi italiani “W.I.T.C.H.” e “Winx Club”"
+        link:
+        authors: Maria Chiara Oltolini, Eleonora Fornasari
+        reference: "ER-SMMA Studi ermeneutici su simbolo, mito e ‘modernità dell’antico’ nella Letteratura italiana e nelle Arti dal Rinascimento ai giorni nostri, Università Cattolica, Milan, 2016"
 
       - title: "Conan - Il Ragazzo del Futuro. Gli esordi televisivi di Miyazaki Hayao tra autorialità e animazione mainstream"
         link: https://comunicazionisociali.vitaepensiero.it/scheda-articolo_digital/maria-chiara-oltolini/conan-il-ragazzo-del-futuro-gli-esordi-televisivi-di-miyazaki-hayao-tra-autorialita-e-animazione-mainstream-conan-the-future-boy-the-television-output-of-miyazaki-hayao-between-authorship-and-mainstream-animation-001200_2014_0002_0326-235025.html
