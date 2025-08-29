@@ -267,14 +267,6 @@ publications:
         link: https://comunicazionisociali.vitaepensiero.it/scheda-articolo_digital/maria-chiara-oltolini/conan-il-ragazzo-del-futuro-gli-esordi-televisivi-di-miyazaki-hayao-tra-autorialita-e-animazione-mainstream-conan-the-future-boy-the-television-output-of-miyazaki-hayao-between-authorship-and-mainstream-animation-001200_2014_0002_0326-235025.html
         authors: Maria Chiara Oltolini
         reference: "Comunicazioni sociali, n. 2, 2014, pp. 326-335"
-    title: Reviews
-    intro: |
-      This list incudes reviews.
-    papers:
-      - title: "I colori dell’anima"
-        link: https://www.scegliereunfilm.it/i-colori-dellanima/
-        authors: Maria Chiara Oltolini
-        reference: "Scegliere un film"
 
 skills:
     # title: Skills &amp; Proficiency
@@ -298,14 +290,14 @@ skills:
     #   - name: Sketch & Photoshop
     #     level: 60%
 reviews:
-    # title: #Reviews
-    # intro: #|
-    #   # Here is a list of my reviews
-    # critiques:
-    #   - title: #"This is a review"
-    #     link:
-    #     authors: #Maria Chiara Oltolini
-    #     reference: #accepted for the Screenwriting Research Network, University of Vienna, 2022
+    title: Reviews
+    intro: |
+       Here is a list of my reviews
+    critiques:
+       - title: "This is a review"
+         link:
+         authors: Maria Chiara Oltolini
+         reference: accepted for the Screenwriting Research Network, University of Vienna, 2022
 
 
 footer: >
