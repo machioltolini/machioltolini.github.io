@@ -292,12 +292,24 @@ skills:
 reviews:
     title: Reviews
     intro: |
-       Here is a list of my reviews
+       Here is a list of my reviews.
     critiques:
        - title: "I colori dell'anima"
          link: https://www.scegliereunfilm.it/i-colori-dellanima/
-         authors: Maria Chiara Oltolini
+         authors:
          reference: "Scegliere un film"
+       - title: "Il ragazzo e l'airone"
+         link: https://www.scegliereunfilm.it/il-ragazzo-e-lairone/
+         authors:
+         reference: "Scegliere un film"
+       - title: "Haikyu!!"
+         link: https://www.orientaserie.it/haikyu-lasso-del-volley/
+         authors: 
+         reference: "Orientaserie"
+       - title: "Demon Slayer"
+         link: https://www.orientaserie.it/demon-slayer/
+         authors:
+         reference: "Orientaserie"
 
 
 footer: >
