@@ -292,24 +292,94 @@ skills:
 reviews:
     title: Reviews
     intro: |
-       Here is a list of my reviews.
+       Here is a list of my reviews (in Italian), for the annual anthology *Scegliere un film* (Ares/Edizioni San Paolo), and the sites www.familycinematv.it and www.orientaserie.it.
     critiques:
-       - title: "I colori dell'anima"
+       - title: "The Colors Within"
          link: https://www.scegliereunfilm.it/i-colori-dellanima/
          authors:
-         reference: "Scegliere un film"
-       - title: "Il ragazzo e l'airone"
+         reference:
+       - title: "The Boy and the Heron"
          link: https://www.scegliereunfilm.it/il-ragazzo-e-lairone/
          authors:
-         reference: "Scegliere un film"
+         reference:
        - title: "Haikyu!!"
          link: https://www.orientaserie.it/haikyu-lasso-del-volley/
-         authors: 
-         reference: "Orientaserie"
+         authors:
+         reference:
        - title: "Demon Slayer"
          link: https://www.orientaserie.it/demon-slayer/
          authors:
-         reference: "Orientaserie"
+         reference:
+       - title: "Belle"
+         link: https://www.scegliereunfilm.it/belle/
+         authors:
+         reference:
+       - title: "Attack on Titan"
+         link: https://www.orientaserie.it/lattacco-dei-giganti/
+         authors:
+         reference:
+       - title: "The best of youth"
+         link: https://www.orientaserie.it/la-meglio-gioventu/
+         authors:
+         reference:
+       - title: "Anne of Green Gables"
+         link: https://www.orientaserie.it/anna-dai-capelli-rossi/
+         authors:
+         reference:
+       - title: "Little Princess Sara"
+         link: https://www.orientaserie.it/lovely-sara/
+         authors:
+         reference:
+       - title: "Modest Heroes"
+         link: https://www.scegliereunfilm.it/modest-heroes/
+         authors:
+         reference:
+       - title: "Your Name"
+         link: https://www.scegliereunfilm.it/your-name/
+         authors:
+         reference:
+       - title: "Children of the Sea"
+         link: https://www.scegliereunfilm.it/children-of-the-sea/
+         authors:
+         reference:
+       - title: "Coco"
+         link: https://www.scegliereunfilm.it/coco/
+         authors:
+         reference:
+       - title: "The Red Turtle"
+         link: https://www.scegliereunfilm.it/la-tartaruga-rossa/
+         authors:
+         reference:
+       - title: "Paddington 2"
+         link: https://www.scegliereunfilm.it/paddington-2/
+         authors:
+         reference:
+       - title: "A Silent Voice"
+         link: https://www.scegliereunfilm.it/la-forma-della-voce/
+         authors:
+         reference:
+       - title: "A Silent Voice"
+         link: https://familycinematv.it/recensioni/la-forma-della-voce/
+         authors:
+         reference:
+       - title: "In this corner of the world"
+         link: https://www.scegliereunfilm.it/in-questo-angolo-di-mondo/
+         authors:
+         reference:
+       - title: "It's Only the End of the World"
+         link: https://www.scegliereunfilm.it/e-solo-la-fine-del-mondo/
+         authors:
+         reference:
+       - title: "Brotherhood: A Life With Saint Francis"
+         link: https://www.scegliereunfilm.it/il-sogno-di-francesco/
+         authors:
+         reference:
+       - title: "Miss Peregrine's Home for Peculiar Children"
+         link: https://www.scegliereunfilm.it/miss-peregrine-la-casa-dei-ragazzi-speciali/
+         authors:
+         reference:
+
+
 
 
 footer: >
