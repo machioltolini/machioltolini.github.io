@@ -294,10 +294,10 @@ reviews:
     intro: |
        Here is a list of my reviews
     critiques:
-       - title: "This is a review"
-         link:
+       - title: "I colori dell'anima"
+         link: https://www.scegliereunfilm.it/i-colori-dellanima/
          authors: Maria Chiara Oltolini
-         reference: accepted for the Screenwriting Research Network, University of Vienna, 2022
+         reference: "Scegliere un film"
 
 
 footer: >
