@@ -193,6 +193,11 @@ publications:
     intro: |
       This list incudes books, articles, book chapters, papers in conferences, and fiction.
     papers:
+      - title: "I colori dell'anima"
+        link: https://www.iltimone.org/prodotto/timone-253-settembre-2025/
+        authors: Maria Chiara Oltolini
+        conference: "Il Timone, no. 253 (2025): 65"
+
       - title: "The Swiss Family Robinson in Japan"
         link:
         authors: Maria Chiara Oltolini
