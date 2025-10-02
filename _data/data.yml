@@ -309,6 +309,10 @@ reviews:
     intro: |
        Here is a list of my reviews (in Italian), for the annual anthology Scegliere un film (Ares/Edizioni San Paolo), and the sites [Family Cinema TV](www.familycinematv.it) and [Orientaserie](www.orientaserie.it).
     critiques:
+       - title: "Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle"
+         link: https://www.scegliereunfilm.it/demon-slayer-il-castello-dellinfinito/
+         authors:
+         reference:
        - title: "The Colors Within"
          link: https://www.scegliereunfilm.it/i-colori-dellanima/
          authors:
